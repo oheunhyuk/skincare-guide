@@ -1,0 +1,26 @@
+ACNE PAGE SEO + SCHEMA AUDIT (2026-08-27)
+
+Applied JSON-LD @graph:
+- Organization
+- WebSite
+- MedicalWebPage
+- MedicalCondition (Acne vulgaris)
+- BreadcrumbList
+- ItemList (3 acne type hubs)
+- FAQPage (visible FAQ only)
+
+Content improvements:
+- Added Acne vulgaris entity wording
+- Updated systemic antibiotic guidance
+- Refined referral/evaluation cues
+- Added visible AAD/NICE source section
+- Added lastReviewed/dateModified and visible review-standard box
+- Added og:image/twitter:image references
+
+Homepage review section:
+- Replaced with exact review section text from user-provided index(20260827-082330).html
+- Review schema intentionally NOT added because the homepage contains reviews about multiple products/experiences rather than one clearly defined Product item. Marking the homepage as one Product/Review entity could be misleading.
+
+Before deployment:
+- Replace https://example.com with the production domain in canonical, OG, sitemap and JSON-LD.
+- Validate with Schema.org validator, Google Rich Results Test, and Naver Search Advisor URL inspection after deployment.

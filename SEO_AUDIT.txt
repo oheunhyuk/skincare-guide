@@ -1,0 +1,15 @@
+condition/acne/index.html	TITLE 26	DESC 46	H1 1	CANON True
+condition/acne-marks/index.html	TITLE 36	DESC 43	H1 1	CANON True
+condition/comedonal-acne/index.html	TITLE 29	DESC 46	H1 1	CANON True
+condition/folliculitis/index.html	TITLE 26	DESC 44	H1 1	CANON True
+condition/index.html	TITLE 23	DESC 67	H1 1	CANON True
+condition/inflammatory-acne/index.html	TITLE 36	DESC 46	H1 1	CANON True
+condition/rosacea/index.html	TITLE 35	DESC 47	H1 1	CANON True
+index.html	TITLE 36	DESC 89	H1 1	CANON True
+medicine/adapalene/index.html	TITLE 28	DESC 83	H1 1	CANON True
+medicine/azelaic-acid/index.html	TITLE 31	DESC 86	H1 1	CANON True
+medicine/doxycycline/index.html	TITLE 28	DESC 89	H1 1	CANON True
+medicine/index.html	TITLE 31	DESC 82	H1 1	CANON True
+medicine/isotretinoin/index.html	TITLE 31	DESC 98	H1 1	CANON True
+medicine/ivermectin/index.html	TITLE 29	DESC 80	H1 1	CANON True
+medicine/minocycline/index.html	TITLE 31	DESC 93	H1 1	CANON True
